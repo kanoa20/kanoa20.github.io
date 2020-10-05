@@ -11,3 +11,5 @@ permalink: docs/lessons-learned
 
 Experience is just the lessons learned from past failures. Let's take a look at some of mine...
 {: .fs-6 .fw-300 }
+
+_More experiences to come..._
