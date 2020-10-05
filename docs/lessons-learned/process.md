@@ -9,6 +9,20 @@ nav_order: 3
 
 # Zero-to-One Overview: From concept to launch
 
+---
+{: .toc }
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
+
+---
+
 This section describes some of the important lessons learned I've gathered along the way as a product leader that I think are the keys to having a successful zero-to-one launch. Essentially, there are five phases:
 1. **Concept:** Use customer feedback on proof of concepts to build a prioritized backlog of use cases
 2. **Define:** Create a measurable strategy that aligns stakeholder success metrics with minimum desired product for customers
@@ -25,19 +39,6 @@ _Figure 1: Simplified backlog of use cases for guest experience management servi
 
 ![](/assets/images/0_to_1.jpg)
 
----
-{: .toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-* TOC
-{:toc}
-</details>
-
----
 
 ## Step 0: Fail fast with proof of concepts
 During the **concept** phase, our primary goal is to understand our value proposition across a diverse customer base to determine our serviceable market:
