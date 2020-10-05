@@ -5,9 +5,10 @@ parent: Lessons Learned
 nav_order: 3
 ---
 
----
 
-## Zero-to-One Overview: From concept to launch
+
+# Zero-to-One Overview: From concept to launch
+
 This section describes some of the important lessons learned I've gathered along the way as a product leader that I think are the keys to having a successful zero-to-one launch. Essentially, there are five phases:
 1. **Concept:** Use customer feedback on proof of concepts to build a prioritized backlog of use cases
 2. **Define:** Create a measurable strategy that aligns stakeholder success metrics with minimum desired product for customers
@@ -17,7 +18,7 @@ This section describes some of the important lessons learned I've gathered along
 
 In the following sections, we'll go through a simplified concept to launch for a guest experience management service.
 
-### What is guest experience management?
+## What is guest experience management?
 A guest experience management service provides a consolidated way for hotels to improve a guest's experience at every touchpoint of their stay. Below is a simplified backlog of seven use cases for guest experience management. We will use this list as a baseline for what we plan to cover in the sections below.
 
 _Figure 1: Simplified backlog of use cases for guest experience management services for hotels_
