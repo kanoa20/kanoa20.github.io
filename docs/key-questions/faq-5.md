@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What's my 10-year vision?
-parent: Leadership FAQs
+parent: Key Questions
 nav_order: 5
 ---
 

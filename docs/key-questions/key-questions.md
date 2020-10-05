@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Leadership FAQs
+title: Key Questions
 nav_order: 2
 has_children: true
-permalink: docs/leadership-faqs
+permalink: docs/key-questions
 ---
 
 # Leadership FAQs

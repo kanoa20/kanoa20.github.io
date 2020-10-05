@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is my leadership philosophy?
-parent: Leadership FAQs
+parent: Key Questions
 nav_order: 2
 ---
 

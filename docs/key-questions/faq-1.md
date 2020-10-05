@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What's my story?
-parent: Leadership FAQs
+parent: Key Questions
 nav_order: 1
 ---
 
