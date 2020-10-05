@@ -8,7 +8,7 @@ nav_order: 3
 # What are some notable experiences?
 
 ### Amazon Web Services: IoT Device Management
-AWS is an infastructure-as-a-service provider; and I reside in the IoT business group. Our value proposition is to provide fully-managed, globally available compute and storage capabilities (cloud), while enabling customers to reduce their IT costs to manage devices. I owned the Device Management service and created a 2-year growth plan which initially addressed "table stakes" themes that unblocked lighthouse customers from adopting the service. In addition to repricing one of our product lines and creating an incentive program for our largest customers to trial our service, I worked with several cross-functional teams to launch Secure Tunneling and positioned it as a higher-value product targeted at the enterprise market segment. Since inception, it has driven the most revenue for the service.
+AWS is an infastructure-as-a-service provider; and I reside in the IoT business group. Our value proposition is to provide fully-managed, globally available compute and storage capabilities (cloud), while enabling customers to reduce their IT costs to manage devices. I owned the Device Management service and created a 2-year growth plan which initially addressed "table stakes" themes that unblocked lighthouse customers from adopting the service. In addition to repricing one of our product lines and creating an incentive program for our largest customers to trial our service, I worked with several cross-functional teams to launch Secure Tunneling and positioned it as a higher-value product targeted at the enterprise market segment.
 {: .fs-4 .fw-300 }
 
 ![](/assets/images/aws.jpg)
