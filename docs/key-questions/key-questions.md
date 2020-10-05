@@ -6,8 +6,8 @@ has_children: true
 permalink: docs/key-questions
 ---
 
-# Leadership FAQs
+#Key Questions
 {: .no_toc }
 
-Let's take a deeper dive into some common questions you might have about me.
+Let's take a deeper dive into some key questions you might have about me.
 {: .fs-6 .fw-300 }
