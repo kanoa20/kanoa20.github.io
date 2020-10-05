@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # What's my story?
+
 ### Here are 5 things to know about me:
 * Born and raised in Hawaii
 * Masters in EE from USC and bachelors in engineering and economics from Harvey Mudd College
