@@ -49,8 +49,8 @@ During the **concept** phase, our primary goal is to understand our value propos
 
 In the simplified guest experience example, our value proposition is to improve guest satisfaction while reducing hotel operating costs. If we take a look at Figure 2, we tested two concepts based on pain points mentioned by customers:
 
-1. **Skip the front desk:** Addressing pain points for guests who want a fully automated checkin and checkout experience
-2. **Service optimization:** Addressing pain points to provide guests better service during their stay.
+* **Skip the front desk:** Addressing pain points for guests who want a fully automated checkin and checkout experience
+* **Service optimization:** Addressing pain points to provide guests better service during their stay.
 
 Overall, skip the front desk use cases had a higher value proposition than service optimzation from hotel feedback.
 
@@ -141,8 +141,10 @@ Some final thoughts on execution...
 During the **build** and **launch** phase, we should always plan balance in our sprints and release milestones to prevent technical and operational debt from compounding into an insurmountible issue in the future. Remember...launching a feature is the starting line, not the finish line.
 
 1. For any release (major, minor, patch), we should _always_ have a go/no-go checklist that includes integration and load tests, security reviews and rollback plans
-2. For major and minor releases, we should always plan to refactor tech debt and augment operational processes to preserve the sanity of our future selves
-3. My guidelines: I expect only 25% of the work completed in a sprint to be actual design and development. This is due to the fact that a good engineering manager will always estimate ~2x the effort to deliver a feature. On top of that, my estimate for each sprint is 50% for the feature, 25% for bug bashes and user-level testing, and 25% for support, tech debt and process improvements.
+2. For major and minor releases, we should plan to refactor tech debt (e.g. monolithic code) and augment operational processes (e.g. deployment pipelines) to preserve the sanity of our future selves
+3. For major release cycles, we should plan to release several small iterations to internal or customer-facing beta programs that can help collect early feedback that can inform future roadmap decisions
+
+I'd like to leave you with my guidelines for managing a sprint. I expect only 25% of the work completed in a sprint to be actual design and development. This is due to the fact that an experienced engineering manager will usually estimate ~2x the effort to deliver a feature. On top of that, my estimate for each sprint is 50% for the feature, 25% for bug bashes and user-level testing, and 25% for support, tech debt and process improvements.
 
 
 ---
