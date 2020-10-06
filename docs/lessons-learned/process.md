@@ -32,7 +32,7 @@ This section describes some of the important lessons learned I've gathered along
 
 In the following sections, we'll go through a simplified concept to launch for a guest experience management service.
 
-## What is guest experience management?
+## 0. What is guest experience management?
 A guest experience management service provides a consolidated way for hotels to improve a guest's experience at every touchpoint of their stay. Below is a simplified backlog of seven use cases for guest experience management. We will use this list as a baseline for what we plan to cover in the sections below.
 
 _Figure 1: Simplified backlog of use cases for guest experience management services for hotels_
@@ -40,7 +40,7 @@ _Figure 1: Simplified backlog of use cases for guest experience management servi
 ![](/assets/images/0_to_1.jpg)
 
 
-## Step 0: Fail fast with proof of concepts
+## 1. Fail fast with proof of concepts
 During the **concept** phase, our primary goal is to understand our value proposition across a diverse customer base to determine our serviceable market:
 
 1. Interview customers about their current problems (use cases) to create a request backlog
@@ -59,7 +59,7 @@ _Figure 2: Themes derived from proof of concepts and value proposition derived f
 ![](/assets/images/0_to_1_step_0.jpg)
 
 ---
-## Step 1: Get stakeholders aligned on measuring success
+## 2. Get stakeholders aligned on measuring success
 During the **define** phase, our primary goal is to define our business and product strategy:
 
 1. Educate stakeholders on the customer problems, segments and market opportunity
@@ -75,7 +75,7 @@ _Figure 3: Using value proposition, customer segmentation and substitutes to ali
 ![](/assets/images/0_to_1_step_1.jpg)
 
 ---
-## Step 2: Identify design limitations early on
+## 3. Identify design limitations early on
 During the **design** phase, our primary goal is to architect our solution:
 
 1. Breakdown use cases into user stories that highlight functional and non-functional requirements
@@ -103,7 +103,7 @@ _[Source: Methodology derived from Wardley mapping](https://blog.gardeviance.org
 
 ---
 
-## Step 3: Establish demonstrable milestones for delivery
+## 4. Establish demonstrable milestones for delivery
 
 During the **build** phase, our primary goal is to plan and execute:
 
@@ -119,7 +119,7 @@ _Figure 6: Using thematic problems, value proposition and cross-functional teams
 
 ---
 
-## Step 4: Let lighthouse customers lead when going to market
+## 5. Let lighthouse customers lead when going to market
 
 During the **launch** phase, our primary goal is to get customers up-and-running:
 
@@ -135,7 +135,7 @@ _Figure 7: Understanding the engagement funnel for each customer segment identif
 
 ---
 
-## Step 5: Add balance to your launch checklist
+## Bonus: Add balance to your launch checklist
 Some final thoughts on execution...
 
 During the **build** and **launch** phase, we should always plan balance in our sprints and release milestones to prevent technical and operational debt from compounding into an insurmountible issue in the future. Remember...launching a feature is the starting line, not the finish line.
