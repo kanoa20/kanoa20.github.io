@@ -144,7 +144,7 @@ During the **build** and **launch** phase, we should always plan balance in our 
 2. For major and minor releases, we should plan to refactor tech debt (e.g. monolithic code) and augment operational processes (e.g. deployment pipelines) to preserve the sanity of our future selves
 3. For major release cycles, we should plan to release several small iterations to internal or customer-facing beta programs that can help collect early feedback that can inform future roadmap decisions
 
-I'd like to leave you with my guidelines for managing a sprint. I expect only 25% of the work completed in a sprint to be actual design and development. This is due to the fact that an experienced engineering manager will usually estimate ~2x the effort to deliver a feature. On top of that, my estimate for each sprint is 50% for the feature, 25% for bug bashes and user-level testing, and 25% for support, tech debt and process improvements.
+ For each sprint, I generally allocate 50% of the sprint for design and development, 25% for bug bashes and user-level testing, and 25% for support, tech debt and process improvements. It usually takes teams ~1.5-2x the effort for feature design and development than originally planned. To account for this uncertainty during roadmapping sessions and ensure on-time delivery, product leaders should anticipate that only half of the user stories planned get delivered each sprint (and consequentially each release). Product leaders should mitigate accordingly by planning about 1/3 to 1/2 of their user stories as stretch goals and communicate these accordingly with stakeholders and customers. Remember, good strategy and planning does not replace the ability to consistently execute and deliver results.
 
 
 ---
