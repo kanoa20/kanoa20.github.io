@@ -19,6 +19,7 @@ permalink: /
 # People. Vision. Results.
 {: .fs-6 }
 
-Strategic product leader with extensive experience building IoT and cloud-based services that solve customer needs; and exponentially growing these businesses through data-influenced decisions, modular design and strategic partnerships. Proven skills in training and leading global multi-disciplinary teams to deliver results across the product lifecycle from cradle to grave.
+I am a growth-focused leader with a strong business acumen, an entrepreneurial mindset, a bias for driving results, and a deep understanding for building products that delight customers. With my diverse leadership background in product management, finance, and engineering in both corporate and start-up environments, I have extensive experience making data-influenced decisions and creating partnerships that exponentially grow businesses, while building IoT and cloud-based products that solve customer needs. I specialize in identifying new revenue opportunities, improving operational efficiencies, and leading global multi-disciplinary teams to deliver measurable success across the product lifecycle from cradle to grave. If you have ideas or opportunities for collaboration, let's connect on Linkedin and set some time up to chat.
+
 {: .fs-4 .fw-300 }
 
