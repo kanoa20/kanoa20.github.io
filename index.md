@@ -18,7 +18,7 @@ permalink: /
 
 ### **Mission**
 
-Strengthening our global cohesive community by enabling others to innovate more effectively
+Strengthening the collectivism of our global community by enabling others to innovate more effectively
 {: .fs-4 .fw-300 }
 
 ### **Values**
