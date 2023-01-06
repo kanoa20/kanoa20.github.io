@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# **About Me**
+# About Me
 
 ---
 {: .fs-4 .fw-300 }
