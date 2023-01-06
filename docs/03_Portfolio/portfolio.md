@@ -1,14 +1,15 @@
 ---
 layout: default
-title: What are some notable experiences?
-parent: Key Questions
+title: Portfolio
 nav_order: 3
+has_children: false
+permalink: docs/portfolio
 ---
 
-# What are some notable experiences?
+# Key product experiences
 
-### Amazon Web Services: IoT Device Management
-AWS is an infastructure-as-a-service provider; and I reside in the IoT business group. Our value proposition is to provide fully-managed, globally available compute and storage capabilities (cloud), while enabling customers to reduce their IT costs to manage devices. I owned the Device Management service and created a 2-year growth plan which initially addressed "table stakes" themes that unblocked lighthouse customers from adopting the service. In addition to repricing one of our product lines and creating an incentive program for our largest customers to trial our service, I worked with several cross-functional teams to launch Secure Tunneling and positioned it as a higher-value product targeted at the enterprise market segment.
+### Amazon Web Services: IoT Device Management (DM)
+AWS IoT DM enables enterprise customers to manage and secure their device fleets at scale. Our value proposition is to provide fully-managed, globally available compute and storage capabilities (cloud), while enabling customers to reduce their IT costs to manage devices. A few notables are growing the service revenue exponentially YoY and launching two (2) zero-to-one product lines (Secure Tunneling and Fleet Hub).
 {: .fs-4 .fw-300 }
 
 ![](/assets/images/aws.jpg)
@@ -17,7 +18,7 @@ _[Source: AWS](https://aws.amazon.com/iot-device-management/features/)_
 
 
 ### KEYPR: IoT & Cloud services and partnerships for smart hotels
-KEYPR is an IoT company that provides a consolidated, fully-managed suite of cloud, mobile and web applications for hotel and building operators to manage their day-to-day operations. Our value proposition was to improve guest experience while also reducing customer operating costs. I owned the cloud service and created an 18-month plan to scale our business. We refactored our microservices architecture on AWS and launched key features such as skip-the-front-desk checkin experience, automated checkout and housekeeping management to meet lighthouse customer needs and mind the gap with market leaders in service request optimization such as HotSOS. I also created a partnership strategy to prioritize integration partners with property management vendors (e.g. Infor), in-room automation services (e.g. Inncom), and keyless locking companies (e.g. Assa Abloy) to shorten our critical path for onboarding customers and leverage our collective inertia to scale faster with both luxury and boutique hotels.
+KEYPR is a hospitality-as-a-service company that provides a consolidated, fully-managed suite of cloud, mobile and web applications for hotel and building operators to manage their day-to-day operations. Our value proposition was to improve guest experience while also reducing customer operating costs. I owned the cloud service and created an 18-month plan to scale our business. We refactored our microservices architecture on AWS and launched key features such as skip-the-front-desk checkin experience, automated checkout and housekeeping management to meet lighthouse customer needs and mind the gap with market leaders in service request optimization such as HotSOS. I also created a partnership strategy to prioritize integration partners with property management vendors (e.g. Infor), in-room automation services (e.g. Inncom), and keyless locking companies (e.g. Assa Abloy) to shorten our critical path for onboarding customers and leverage our collective inertia to scale faster with both luxury and boutique hotels.
 {: .fs-4 .fw-300 }
 
 ![](/assets/images/keypr.jpg)
