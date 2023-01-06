@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: About
 nav_order: 1
 description: "Strategic product leader"
 permalink: /
@@ -23,12 +23,12 @@ Reimagining a more cohesive global community by addressing inequities and challe
 
 ### Values
 
-1. **Trust:** Foster high-quality relationships
-2. **Fitness:** Cultivate sustainable staying power
-3. **Perspective:** Build mechanisms to evolve together
+- **Trust:** Foster high-quality relationships
+- **Fitness:** Cultivate sustainable staying power
+- **Perspective:** Build mechanisms to evolve together
 
 ### Competencies
 
-1. **People:** Leading product & engineering teams; while partnering with key stakeholders to build products that delight customers
-2. **Vision:** Aligning multi-year strategy, roadmap & investments; while developing business goals & success metrics for teams to deliver
-3. **Growth:** Being hands-on in driving PaaS scale in growing & maturing businesses to innovate a more cohesive global community.
+- **People:** Leading product & engineering teams; while partnering with key stakeholders to build products that delight customers
+- **Vision:** Aligning multi-year strategy, roadmap & investments; while developing business goals & success metrics for teams to deliver
+- **Growth:** Being hands-on in driving PaaS scale in growing & maturing businesses to innovate a more cohesive global community.
