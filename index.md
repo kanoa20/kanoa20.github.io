@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# About Me
+# **About Me**
 
 ---
 {: .fs-4 .fw-300 }
@@ -16,18 +16,18 @@ permalink: /
 
 [View my LinkedIn](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-### Mission
+### **Mission**
 
 Reimagining a more cohesive global community by addressing inequities and challenges facing inequitable resource distribution.
 {: .fs-4 .fw-300 }
 
-### Values
+### **Values**
 
 - **Trust:** Foster high-quality relationships
 - **Fitness:** Cultivate sustainable staying power
 - **Perspective:** Build mechanisms to evolve together
 
-### Competencies
+### **Competencies**
 
 - **People:** Leading product & engineering teams; while partnering with key stakeholders to build products that delight customers
 - **Vision:** Aligning multi-year strategy, roadmap & investments; while developing business goals & success metrics for teams to deliver
