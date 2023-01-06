@@ -18,7 +18,7 @@ permalink: /
 
 ### **Mission**
 
-Reimagining a more cohesive global community by addressing inequities and challenges facing inequitable resource distribution.
+Strengthening our global cohesive community by enabling others to innovate more effectively
 {: .fs-4 .fw-300 }
 
 ### **Values**
@@ -31,4 +31,4 @@ Reimagining a more cohesive global community by addressing inequities and challe
 
 - **People:** Leading product & engineering teams; while partnering with key stakeholders to build products that delight customers
 - **Vision:** Aligning multi-year strategy, roadmap & investments; while developing business goals & success metrics for teams to deliver
-- **Growth:** Being hands-on in driving PaaS scale in growing & maturing businesses to innovate a more cohesive global community.
+- **Growth:** Being hands-on in operationally scaling PaaS ecosystems in growing & maturing businesses
