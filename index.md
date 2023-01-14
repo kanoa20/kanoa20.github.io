@@ -18,7 +18,12 @@ permalink: /
 
 ### **Mission**
 
-Strengthening the collectivism of our global community by enabling others to innovate more effectively
+Strengthening the collectivism of our global community by enabling others to innovate more effectively. Specifically, focused on the following problem themes:
+
+- Access to high-quality, globally available web
+- Simplified opt-in to digitally connect any tool for use
+- Reimagining collective societal value for verifiable credibility, consensus and lasting usage
+
 {: .fs-4 .fw-300 }
 
 ### **Values**
@@ -29,6 +34,6 @@ Strengthening the collectivism of our global community by enabling others to inn
 
 ### **Competencies**
 
-- **People:** Leading product & engineering teams; while partnering with key stakeholders to build products that delight customers
-- **Vision:** Aligning multi-year strategy, roadmap & investments; while developing business goals & success metrics for teams to deliver
-- **Growth:** Being hands-on in operationally scaling PaaS ecosystems in growing & maturing businesses
+- **People:** Identify emergent needs
+- **Vision:** Set a canonical direction
+- **Growth:** Operationalize, prove & iterate
