@@ -24,9 +24,9 @@ permalink: /
 
 Innovating a more cohesive global community.
 
-1. Equitable access to high-quality content & verifiable use
-2. Effective allocation of physical & digital resources
-3. Generative value with jurisdiction-less representation
+- Equitable access to high-quality content & verifiable use
+- Effective mobility of physical & digital resources
+- Generative augmentation of trust, safety & security
 
 {: .fs-4 .fw-300 }
 
