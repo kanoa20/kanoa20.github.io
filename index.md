@@ -17,7 +17,7 @@ permalink: /
 [View my LinkedIn](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-**Early-stage advisor, tech founder & product leader** with a strong business acumen, an entrepreneurial mindset, a bias and pragmatism for driving evidence-based results, and a deep understanding of cloud and data platforms that delight customers. 
+**Early-stage advisor & product leader** with a strong business acumen, an entrepreneurial mindset, a bias and pragmatism for driving evidence-based results, and a deep understanding of cloud and data platforms that delight customers. 
 
 
 ### **Mission**
