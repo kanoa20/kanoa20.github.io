@@ -17,22 +17,18 @@ permalink: /
 [View my LinkedIn](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-**Early-stage advisor, tech founder & product leader** with a strong business acumen, an entrepreneurial mindset, a bias and pragmatism for driving evidence-based results, and a deep understanding of cloud and data platforms that delight customers. 
+**Adaptive leader** with a strong business acumen, an entrepreneurial mindset, a bias and pragmatism for driving measurable results, and a deep understanding of cloud and data platforms that frugally delight customers. 
 
 
 ### **Mission**
 
-Innovating a more cohesive global community.
-
-1. Equitable access to high-quality content & verifiable use
-2. Effective allocation of physical & digital resources
-3. Generative value with jurisdiction-less representation
+Laser-focused on enabling creators, builders & domain experts create meaningful value from their data. Open to better understanding responsible levers across innovative spaces that effectively optimize equitable access to digital & physical resources. 
 
 {: .fs-4 .fw-300 }
 
 ### **Tenets**
 
-Strengthening key partnerships that move in-rhythm. 
+Strengthening cohesive partnerships that move in-rhythm. 
 
 - **Trust:** Foster high-quality relationships
 - **Fitness:** Cultivate sustainable staying power
@@ -40,7 +36,7 @@ Strengthening key partnerships that move in-rhythm.
 
 ### **Approach**
 
-Delivering measurable success across the business lifecycle. 
+Forging a measurable path from ambiguity to clarity. 
 
 - **People:** Identify emergent needs
 - **Vision:** Set canonical direction
