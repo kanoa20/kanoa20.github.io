@@ -26,7 +26,7 @@ permalink: approach
 - **Design:** Why is this the best option?
 - **Deliver:** Why this much investment?
 
-**Growth** Operationalize GTM
+**Growth** Operationalize, prove, iterate.
 - **Productionize:** How do we ensure success?
 - **Collaborate:** How do we enable self-service?
 - **Improvement:** How do we iteratively scale?
