@@ -15,3 +15,5 @@ nav_order: 4
 
 ### **Feature score:** Compare CX spectrum across player types
 ![](/assets/images/feature-score.jpg)
+
+#### **Dive deeper:** 3 laws - Understanding laws of the land, laws of economics & laws of the physical world can surface hidden obstacles for why moving into a certain space might fail.
