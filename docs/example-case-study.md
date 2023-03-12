@@ -7,7 +7,7 @@ permalink: case-study
 ---
 
 
-# Example case study
+# Case study: Enhancing guest experience at hotels
 {: .no_toc }
 
 ## Intended audience & Key concepts
@@ -36,13 +36,4 @@ permalink: case-study
     - ADR = Average daily (room) rate
     - DAR = Daily active room
     - PMS: Property management system
-
-**Case study:** Enhancing guest experience at hotels
-
-## Framing the situation
-
-### **Stealth X** is a service optimization company that provides a fully-managed connected ecosystem
-of 1P / 3P cloud, mobile & in-room connected devices to enhance the hotel guest experience.
-
-![](/assets/images/use-cases.jpg)
 
