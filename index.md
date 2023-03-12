@@ -12,29 +12,11 @@ permalink: /
 ---
 {: .fs-4 .fw-300 }
 
-![](/assets/images/bio-photo-2.jpg)
+![](/assets/images/bio-photo-3.jpg)
 
 [View my LinkedIn](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-### **Mission**
+![](/assets/images/about-me.jpg)
 
-**Adaptive leader** with a strong business acumen, an entrepreneurial mindset, a bias and pragmatism for driving measurable results, and a deep understanding of cloud and data platforms that frugally delight customers. Laser-focused on enabling creators, builders & domain experts create meaningful value from their data. Open to better understanding responsible levers across innovative spaces that effectively optimize equitable access to digital & physical resources. 
 
-{: .fs-4 .fw-300 }
-
-### **Tenets**
-
-Strengthening cohesive partnerships that move in-rhythm. 
-
-- **Trust:** Foster high-quality relationships
-- **Fitness:** Cultivate sustainable staying power
-- **Perspective:** Build mechanisms to evolve together
-
-### **Approach**
-
-Forging a measurable path from ambiguity to clarity. 
-
-- **People:** Identify emergent needs
-- **Vision:** Set canonical direction
-- **Growth:** Operationalize, prove & iterate
