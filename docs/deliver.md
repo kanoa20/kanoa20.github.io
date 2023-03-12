@@ -5,7 +5,7 @@ parent: Case Study
 nav_order: 7
 ---
 
-# **Deliver:** Why investment now?
+# **Deliver:** Why invest now?
 {: .no_toc }
 
 ![](/assets/images/deliver.jpg)

@@ -9,7 +9,7 @@ nav_order: 4
 {: .no_toc }
 
 
-### **7. 2D playing field:** Map Durable (insights) vs differentiator (CX)
+### **7. 2D playing field:** Map spectrum of durable (insights) vs differentiator (CX)
 ![](/assets/images/playing-field.jpg)
 
 ### **8. Feature score:** Compare CX spectrum across player types

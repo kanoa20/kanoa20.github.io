@@ -10,7 +10,7 @@ nav_order: 5
 
 ### **10. Northstar positioning:** Be the category leader in seamless guest experience.
 
-### **11. Assert success KPI:** # of daily mobile check-ins (leading signal)
+### **11. Success KPI:** # of daily mobile check-ins (leading signal)
 ![](/assets/images/success-kpi.jpg)
 
 ### **12. Concept validation:** Prioritize *skip-the-front-desk* user stories with lighthouse behavioral tests (e.g. first-click).
