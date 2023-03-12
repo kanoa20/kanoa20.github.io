@@ -8,7 +8,7 @@ nav_order: 9
 # **Collaboration:** How to enable self-service?
 {: .no_toc }
 
-### **22. Operating tenets:** Hire & develop teams that execute responsibly.
+### **22. Operating tenets:** Hire & develop cohesive teams that move in-rhythm and execute responsibly.
 ![](/assets/images/tenets.jpg)
 
 ### **23. Anti-Bermuda triangle:** Mature audience response to 80/20 signal loss, distortion or bottlenecks.
