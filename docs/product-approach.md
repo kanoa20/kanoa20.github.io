@@ -3,7 +3,7 @@ layout: default
 title: Approach
 nav_order: 1
 has_children: false
-permalink: docs/approach
+permalink: approach
 ---
 
 
