@@ -2,19 +2,19 @@
 layout: default
 title: Case Study
 nav_order: 2
-has_children: false
+has_children: true
 permalink: case-study
 ---
 
 
-# **Example case study:**
+# Example case study
 {: .no_toc }
 
-## **Intended audience & Key concepts**
+## Intended audience & Key concepts
 
 ![](/assets/images/intended-audience.jpg)
 
-**Key concepts:** Diambiguating terms
+### **Key concepts:** Diambiguating terms
 - Value prop
     - Relative differentiator compared to substitutes
     - Durable advantage over the long-term
@@ -39,12 +39,10 @@ permalink: case-study
 
 **Case study:** Enhancing guest experience at hotels
 
-## **Framing the siutation**
+## Framing the situation
 
-**Stealth X** is a service optimization company that provides a fully-managed connected ecosystem
+### **Stealth X** is a service optimization company that provides a fully-managed connected ecosystem
 of 1P / 3P cloud, mobile & in-room connected devices to enhance the hotel guest experience.
 
 ![](/assets/images/use-cases.jpg)
-
-### 1. **Business:** Why is it necessary?
 
