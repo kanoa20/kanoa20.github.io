@@ -17,4 +17,4 @@ nav_order: 10
 
 #### **Dive deeper:** 80/20 releases - Assuming initial release is 80/20 of what an archetype wants, then two more rounds of 80/20 should get to 99.2% of feature precision!!
 
-### **27. System shocks:** 3P low-audience (shock) tests can identify cascading fractures & missing guardrails.
+### **27. System shocks:** Random 3P low-audience (shock) tests can identify cascading fractures & missing guardrails.

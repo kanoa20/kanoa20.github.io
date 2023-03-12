@@ -12,6 +12,6 @@ nav_order: 8
 
 ### **19. Ramp:** Adding 25K net new rooms aggregate avg. of ~3.8K daily stay check-ins (leading signal)
 
-### **20. Readiness:** Stage incremental releases using audience-based milestones
+### **20. Readiness:** Stage incremental releases using audience-based milestones.
 
-### **21. Risks:** Track signal deviation and evaluation risks & remediation levers after minimum baking times (steady-state).
+### **21. Risks:** Track signal deviation and evaluate risks & remediation levers after minimum baking times (steady-state).
