@@ -15,3 +15,5 @@ nav_order: 3
 
 ### **Gatekeeper archetype:** Hotel manager
 ![](/assets/images/gatekeeper.jpg)
+
+#### **Dive deeper:** Gatekeepers hold the keys that unlock a large group of users. In B2B, these are usually investment sponsors (or proxies). In B2C, these are usually marketing or social influencers
