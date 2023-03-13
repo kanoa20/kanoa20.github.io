@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deliver
-parent: Case Study
+parent: Example
 nav_order: 7
 ---
 

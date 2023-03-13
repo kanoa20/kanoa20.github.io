@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Productionize
-parent: Case Study
+title: Operationalize
+parent: Example
 nav_order: 8
 ---
 
-# **Productionize:** How to ensure success?
+# **Operationalize:** How to ensure success?
 {: .no_toc }
 
-![](/assets/images/productionize.jpg)
+![](/assets/images/operationalize.jpg)
 
 ### **19. Ramp:** Adding 25K net new rooms aggregate avg. of ~3.8K daily stay check-ins (leading signal)
 

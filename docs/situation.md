@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Situation
-parent: Case Study
+parent: Example
 nav_order: 1
 ---
 

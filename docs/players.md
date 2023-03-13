@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Players
-parent: Case Study
+parent: Example
 nav_order: 4
 ---
 

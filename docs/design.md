@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design
-parent: Case Study
+parent: Example
 nav_order: 6
 ---
 

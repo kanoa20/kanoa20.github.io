@@ -16,7 +16,7 @@ permalink: approach
 
 ### **Key ingredients**
 
-**People:** Identify emergent needs.
+**People:** Understand emergent needs.
 - **Business:** Why is it necessary?
 - **Customers:** Why imperative need to switch?
 - **Players:** Why the better alternative?
@@ -26,7 +26,7 @@ permalink: approach
 - **Design:** Why is this the best option?
 - **Deliver:** Why this much investment?
 
-**Growth** Operationalize, prove, iterate.
-- **Productionize:** How do we ensure success?
+**Growth** Execute, prove, iterate.
+- **Operationalize:** How do we ensure success?
 - **Collaborate:** How do we enable self-service?
 - **Improvement:** How do we iteratively scale?

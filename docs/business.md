@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Business
-parent: Case Study
+parent: Example
 nav_order: 2
 ---
 

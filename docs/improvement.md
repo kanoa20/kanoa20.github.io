@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Improvement
-parent: Case Study
+parent: Example
 nav_order: 10
 ---
 

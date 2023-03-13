@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Collaboration
-parent: Case Study
+parent: Example
 nav_order: 9
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Define
-parent: Case Study
+parent: Example
 nav_order: 5
 ---
 

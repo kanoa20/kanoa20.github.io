@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Case Study
+title: Example
 nav_order: 2
 has_children: true
-permalink: case-study
+permalink: example
 ---
 
 
