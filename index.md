@@ -14,7 +14,7 @@ permalink: /
 
 ![](/assets/images/bio-photo-2.jpg)
 
-[View my LinkedIn](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contact me](https://linkedin.com/in/shaneouchi){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ### **Mission**
